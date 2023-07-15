@@ -1,0 +1,55 @@
+/* Подключение 7-1 Pattern 
+========================================================================== */
+
+/* Base */
+@import "sass/base/_typography.scss";
+/* Base
+========================================================================== */
+
+/* Components */
+@import "sass/components/_buttons.scss";
+@import "sass/components/_carousel.scss";
+@import "sass/components/_cover.scss";
+@import "sass/components/_dropdown.scss";
+/* Components
+========================================================================== */
+
+/* Layout 
+========================================================================== */
+@import "sass/layout/_footer.scss";
+@import "sass/layout/_forms.scss";
+@import "sass/layout/_grid.scss";
+@import "sass/layout/_header.scss";
+@import "sass/layout/_navigation.scss";
+@import "sass/layout/_sidebar.scss";
+/* Layout 
+========================================================================== */
+
+/* Pages 
+========================================================================== */
+
+/* Pages 
+========================================================================== */
+
+/* Themes 
+========================================================================== */
+@import "sass/themes/_admin.scss";
+@import "sass/themes/_theme.scss";
+/* Themes 
+========================================================================== */
+
+/* Utils 
+========================================================================== */
+@import "sass/utils/_functions.scss";
+@import "sass/utils/_helpers.scss";
+@import "sass/utils/_mixins.scss";
+@import "sass/base/_reset.scss";
+@import "sass/utils/_variables.scss";
+/* Utils 
+========================================================================== */
+
+/* Vendors 
+========================================================================== */
+@import "sass/vendors/_jquery-ui.scss";
+/* Vendors 
+========================================================================== */
